@@ -1,1 +1,3 @@
-use git status to check how much changes in staging area to make sure commit one logical changes
+Staging area is in the between repository and working directory so user can have multiple options to how many or independently files they would like to commit
+if user makes several verions that are completly different from the orginal version, it would help much
+ 
