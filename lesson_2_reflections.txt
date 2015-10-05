@@ -2,3 +2,4 @@ Staging area is in the between repository and working directory so user can have
 if user makes several verions that are completly different from the orginal version, it would help much
 having diagram helps to look at the how the branch and commits are related to each other at once
 Merging makes two branch to be unified including both changes from each branch, and we can still keep the commits from the both side
+Automatically merging could be bothered if you want to merge but need to remove some of the commits in one of the branches. However manuall could make accurate merge but it would take too much time and effort
