@@ -1,0 +1,4 @@
+it makes much easier to compare the two files
+so we caneaasily compare the versions to make better work results
+pros: just right amount of commits cons: sometimes forgets to commit
+because in git more than one file is related to another, while google docs files are usually independent
