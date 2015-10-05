@@ -1,0 +1,1 @@
+use git status to check how much changes in staging area to make sure commit one logical changes
