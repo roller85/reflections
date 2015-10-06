@@ -1,0 +1,5 @@
+to work with co-workers and I myself can be going other places and want to work on it
+since github is out to the public, you only want to show that is completed
+fork is xopying other person's repository to your github account
+clone is to bring everything to your local repository from the github or other person's repository
+branch is where you keep your commits
